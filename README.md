@@ -1,39 +1,43 @@
-﻿## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/madisonbynum/Project2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+=======
+# MorningInn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Development server
 
-```markdown
-Syntax highlighted code block
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-# Header 1
-## Header 2
-### Header 3
+## Code scaffolding
 
-- Bulleted
-- List
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-1. Numbered
-2. List
+## Build
 
-**Bold** and _Italic_ and `Code` text
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-[Link](url) and ![Image](src)
-```
+## Running unit tests
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-### Jekyll Themes
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madisonbynum/Project2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
+
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-Caleb Was Here!!!
+
+
+=======
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README
+## Caleb Was Here
+
